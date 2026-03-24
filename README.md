@@ -1,4 +1,4 @@
-# RAG‑ассистент для диалогов о знаменитостях
+# RAG‑Biography Chat: ассистент по биографиям известных личностей
 
 # Стек
 Python, LangChain, ChromaDB, Hugging Face Transformers, DuckDuckGo Search, requests, BeautifulSoup, NLP‑модель hugging‑quants/Meta-Llama-3.1-8B-Instruct-AWQ‑INT4.
